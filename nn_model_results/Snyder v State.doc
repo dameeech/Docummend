@@ -1,0 +1,4329 @@
+{\rtf1 \ansi 
+{\colortbl;
+\red0\green0\blue0;
+\red255\green255\blue255;
+\red255\green0\blue0;
+\red0\green255\blue0;
+\red0\green0\blue255;
+\red0\green255\blue255;
+\red255\green0\blue255;
+\red255\green255\blue0;
+\red0\green0\blue128;
+\red0\green128\blue128;
+\red0\green128\blue0;
+\red128\green0\blue128;
+\red128\green0\blue0;
+\red128\green128\blue0;
+\red128\green128\blue128;
+\red192\green192\blue192;
+\red170\green170\blue170;
+\red85\green85\blue85;
+\red80\green80\blue80;
+\red51\green51\blue51;
+\red56\green124\blue43;
+\red119\green119\blue119;
+\red204\green204\blue204;
+\red14\green86\blue140;
+\red247\green247\blue247;
+\red151\green151\blue151;
+\red37\green37\blue37;
+\red33\green33\blue33;
+\red254\green254\blue0;
+\red21\green137\blue21;
+\red107\green107\blue106;
+\red232\green233\blue232;
+\red255\green248\blue96;
+\red255\green255\blue174;
+\red181\green79\blue104;
+\red246\green246\blue246;
+\red0\green114\blue54;
+\red106\green144\blue39;
+\red255\green255\blue102;
+\red238\green238\blue238;
+\red20\green93\blue164;
+\red214\green9\blue9;
+\red187\green187\blue187;
+\red249\green249\blue249;
+\red112\green112\blue112;
+\red223\green223\blue223;
+\red239\green239\blue239;
+\red236\green236\blue236;
+\red255\green255\blue198;
+\red233\green233\blue233;
+\red239\green122\blue2;
+\red61\green61\blue61;
+\red240\green240\blue240;
+\red185\green185\blue185;
+\red218\green218\blue218;
+\red86\green86\blue86;
+\red250\green250\blue250;
+\red70\green70\blue70;
+\red250\green222\blue100;
+\red61\green61\blue60;
+\red255\green204\blue153;
+\red188\green41\blue30;
+\red23\green94\blue146;
+\red227\green232\blue250;
+\red70\green70\blue68;
+\red245\green245\blue245;
+\red203\green203\blue203;
+\red249\green250\blue251;
+\red228\green231\blue232;
+\red105\green105\blue105;
+\red227\green227\blue227;
+\red182\green231\blue243;
+\red255\green194\blue211;
+\red190\green190\blue252;
+\red214\green214\blue214;
+\red172\green172\blue172;
+\red9\green56\blue84;
+\red240\green248\blue255;
+\red127\green127\blue127;
+\red229\green243\blue255;
+\red179\green218\blue255;
+\red255\green255\blue204;
+\red255\green204\blue0;
+\red255\green210\blue183;
+\red204\green255\blue255;
+\red183\green242\blue206;
+\red118\green118\blue118;
+\red221\green195\blue236;
+\red243\green243\blue243;
+\red153\green153\blue153;
+\red71\green120\blue194;
+\red102\green0\blue102;
+\red102\green102\blue102;
+\red242\green242\blue242;
+\red10\green91\blue166;
+\red214\green78\blue69;
+\red24\green140\blue181;
+}
+{\fonttbl {
+\f0 Arial;}{
+\f1 Symbol;}{
+\f2 Times New Roman;}{
+\f3 sans-serif;}{
+\f4 georgia;}{
+\f5 Source Sans Pro;}{
+\f6 Helvetica;}{
+\f7 serif;}
+}
+{\*\generator Apache XML Graphics RTF Library;}
+\fet0 \ftnbj \paperw12240 \paperh15840 \margt1080 \margb1080 \margl1080 \margr1080 \headery720 \footery720 \itap0 \cols1 
+\sectd {\header {
+{\trowd \ltrrow \trleft0 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrt \clbrdrb \brdrcf17 \brdrw20 \brdrs \clbrdrl \trql \clvertalb \clwWidth9380 \cellx9380 
+\clpadb60 \clpadfb3 \clpadl400 \clpadfl3 \clbrdrt \clbrdrb \brdrcf17 \brdrw20 \brdrs \clbrdrr \trql \clwWidth700 \cellx10080 
+\intbl 
+{\b0 \cf1 \f0 \ri0 \i0 \ql \fs18 \li0 
+{\b0 \cf1 \f0 \ul0 \strike0 \i0 \fs18 
+}
+{\b1 \cf18 \f0 \i0 \fs18 
+{\b1 \cf18 \f0 \ul0 \strike0 \i0 \fs18 \sa0 \sb0 
+Snyder v. State, 70 Misc.3d 801 (2020)
+}
+}
+{\b0 \cf1 \f0 \ul0 \strike0 \i0 \fs18 
+}
+}\b0 \cf1 \f0 \ri0 \ul0 \strike0 \i0 \ql \fs18 \li0 \sa0 \sb0 \intbl \cell \intbl 
+{\qr \b0 \cf1 \f0 \ri0 \i0 \fs18 \li0 
+}\qr \b0 \cf1 \f0 \ri0 \i0 \fs18 \li0 \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\b0 \cf1 \f0 \ri0 \i0 \ql \fs18 \li0 
+{\b0 \cf1 \f0 \ul0 \strike0 \i0 \fs18 \sa0 \sb0 
+138 N.Y.S.3d 802, 2020 N.Y. Slip Op. 20327
+}
+}\b0 \cf1 \f0 \ri0 \ul0 \strike0 \i0 \ql \fs18 \li0 \sa0 \sb0 \intbl \cell \row }}\par }{\footer {
+{\trowd \lastrow \trleft0 
+\clpadl60 \clpadfl3 \clbrdrt \brdrcf17 \brdrw20 \brdrs \clbrdrb \clbrdrl \trql \clvertalb \clwWidth9300 \cellx9300 
+\clpadl60 \clpadfl3 \clbrdrt \brdrcf17 \brdrw20 \brdrs \clbrdrb \clbrdrr \trql \clwWidth700 \cellx10000 
+\intbl 
+{\b0 \cf17 \f0 \ri0 \i0 \ql \fs20 \li0 
+{\b0 \cf17 \f0 \ul0 \strike0 \i0 \fs20 
+}
+{\*\shppict {\pict \pngblip \picw78 \pich10 \picwgoal1170 \pichgoal150 89504e470d0a1a0a0000000d494844520000004e0000000a08030000002dbd985500000300504c5445f8a969f6913ff68931fff9f5f69241f5852af68d38fcddc4f58326fac294f8a868fac193fcdabefab985fcdfc7fef5eef58022f8a35efef6effde5d2fac092fffaf6f9ac6ffffcfafde8d7fef7f1f9b279f6862cf8aa6af79e56f79c53f58327fef1e7fde3cefeeee2f9b076f79a4efef8f4f58123f58224f9ae72feefe4f58021f9ae71fac295fffaf7fcdabffef7f2f9af73f9b177f8ac6ef9b47cf8a15bf6872ef79648fef5edf9b278fcd9bdf9b782f9b57efbc89ffde3cffffefdf6872df8aa6bfcd6b8fac59af9b781fabc8bfffbf8fac091fac396fbceaaf8a461f68e39f6882ffabe8dfabf8ff9b884f79c52fdeadbfeede0f68c36f89f58fcdcc3fde0c9fef0e5fef3eaf68f3cfbcaa2f8a867f9b37afaba87f68b35fde7d6fabf90fffcfbfaba86fde7d5f6903efffdfcfef4ecf68f3bfde1cafcdfc6fbd1affbcea9fcd6b7f68a33f79444fbcba5f58429fcdec6f9af74f8a25df58428f7a461fef4edfdede0fde6d4fde7d4f9b680fbc69cfbc8a0f9b37bfac9a1f69240f79d54fcd4b4f9b883f68e3afef8f3fdebddfde2cbf7984cf8a35ff6882efef3ebf9bd8cfcd4b5feecdef8a562fde6d3fef9f4fcdbc1f9bc8afcd8bcf8ab6dfef8f2fcd7b9fffbf7feefe3f79546f8aa69f79f57fde1cbfcd3b3fcd2b1f8a25cfcd3b2fde2ccfac599fac397f9b379fcd8bbfbd2b0fef2e9fcd5b6fac79ef8a664f8a460f68a32fac090fffbf9fef2e8f8ab6cfde4d0f7994df6903df79749fffefcf79e55f8a766f8a059f68830f7974afde2cdfbcca6fabd8cf57f20ffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c5baaa8e000000bf74524e53ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00456e8439000002804944415478da63dcc70001fef2931866b0be0cd2085114e5ff7ef72a0357d0a3a31cc2129ebb9f492a3e4b6eb8cb20913bb5c808a2f849bf610c438bf99a9917cf2a18092c7bf1a30a6a0a13946658f6af92e15352e52386af5d677ee5ff61618c5ca7c6b58921d6ecc47383e56a52b3181955bf2e3e01513b49bae7260383be8b048376a2e34786a3853761a6b0c018892b57313c48fa38834195c1cf94c16a3a03c3edad7c5f163030a8672bcc3afcf4251343639ef3ae2cb05afe384e9390352a0c320cbdf71f19b43d6690c7302e84e11383d28bff67bcba9a6e2831acd9c6e0d990fe70b74ae7d2a90c0cbbc36fbaef6660b80f55ba68e9d2d5a9ae0cdd2f341878be8b9c64f8cb701d660a733c9451af78704effa1c6b3536708cf2c9ffde7c78fcb9b16497b8acf3e3721061812bfde8433302c8d5a190152ca93f7d26df6796bff83310dbfe504de7f7ff9ec621c7ad8ade964d5f0f8162da4257e9da18c39434955602283a37fdaefde9cb30c686005c3a4c9a6d792186c6b665d8e54f97ae7c5badd189e65307c22395565fbc43fcc010cad5b3ba781c5363184af0bfa8530481844b84e65b87efde6bcb50c67d9dc36d4f6bf7aa6e4015700771dc3fd57751f183c97ecfe7f04c8b17e9f9fdfceb0e334c3ca37c16940feb644b09ad7e1aee90cdaaa9f1ca31ef6bd6478e2b43ba29f615fc7cf550c1861c720c2699619c930d362d55a060ff68e592f7d4eacd82df9eb3bd7bd387986ff73182d18183686ba2ff9f76ec59f909c2e83a8499dbbaaa404ecf8199cb8051e79627ad6fa4799360383602cd0bdcbdeb2fc6158debec577daf1a9076ba51818e679bf05aaf85cfdeb0f8383c1ec0973801cee342386c537cdf218fecf4b70801b0200f61ff095f54de6170000000049454e44ae426082}}
+{\b0 \cf17 \f0 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u169\'3f 2021 Thomson Reuters. No claim to original U.S. Government Works.
+}
+}\b0 \cf17 \f0 \ri0 \ul0 \strike0 \i0 \ql \fs20 \li0 \sa0 \sb0 \intbl \cell \intbl 
+{\qr \b0 \cf17 \f0 \ri0 \i0 \fs20 \li0 
+{\b0 \i0 \ul0 \fs20 \f0 \chpgn }
+}\qr \b0 \cf17 \f0 \ri0 \ul0 \strike0 \i0 \fs20 \li0 \intbl \cell \row }}\par }
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 \par}\sect\sbknone\pgncont\cols1{\ids0 
+{\*\bkmkstart co_document_174}{\*\bkmkend co_document_174}
+{\b0 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart Id1e89e103a5b11eba9c4c2beee9e04d0_Target}{\*\bkmkend Id1e89e103a5b11eba9c4c2beee9e04d0_Target}
+\par 
+}
+{\b0 \qc \cf1 \f4 \ri0 \i0 \fs20 \li0 
+{\b0 \cf1 \f4 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+70 Misc.3d 801
+\par 
+}
+}
+{\b0 \qc \cf1 \f4 \ri0 \i0 \fs20 \li0 
+{\b0 \qc \cf1 \f4 \ri0 \i0 \fs20 \li0 
+{\b0 \cf1 \f4 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Court of Claims of New York.
+\par 
+}
+}
+}
+{\b0 \qc \cf27 \f4 \ri100 \i0 \fs20 \li100 
+{\b0 \qc \cf27 \f4 \ri100 \i0 \fs20 \li100 
+{\b0 \qc \cf27 \f4 \ri100 \i0 \fs20 \li100 
+{\b0 \cf27 \f4 \ul0 \strike0 \i0 \fs20 \sa0 \sb200 
+Marvin SNYDER, Claimant,
+\par 
+}
+}
+{\b0 \qc \cf27 \f4 \ri100 \i0 \fs20 \li100 
+{\b0 \cf27 \f4 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+v.
+\par 
+}
+}
+{\b0 \qc \cf27 \f4 \ri100 \i0 \fs20 \li100 
+{\b0 \cf27 \f4 \ul0 \strike0 \i0 \fs20 \sa200 \sb0 
+STATE of New York, Defendant.
+\par 
+}
+}
+}
+}
+{\b0 \qc \cf1 \f2 \ri0 \i0 \fs20 \li0 
+{\b0 \cf1 \f2 \i0 \fs20 
+{\b0 \qc \cf1 \f4 \ri0 \i0 \fs20 \li200 
+{\b0 \cf1 \f4 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+122234
+\par 
+}
+}
+}
+{\b0 \cf1 \f4 \i0 \fs20 
+{\b0 \qc \cf1 \f4 \ri0 \i0 \fs20 \li200 
+{\b0 \cf1 \f4 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+|
+\par 
+}
+}
+{\b0 \qc \cf1 \f4 \ri0 \i0 \fs20 \li200 
+{\b0 \cf1 \f4 \ul0 \strike0 \i0 \fs20 \sa200 \sb0 
+Decided on December 4, 2020
+\par 
+}
+}
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b1 \cf28 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\*\bkmkstart co_synopsis_174}{\*\bkmkend co_synopsis_174}
+{\b1 \cf28 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb400 
+Synopsis
+\par 
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b1 \cf1 \f2 \i0 \fs20 
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Background:
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Inmate claimant brought action against State, seeking damages for failure to timely diagnose claimant\rquote s heart attack by telemedicine, after electrocardiogram (EKG) machine was inoperable, and for failure to provide timely treatment, asserting causes of action including medical malpractice, negligence, and vicarious liability. Claimant moved for partial summary judgment on five causes of action, including medical malpractice and breach of duty of care, or alternatively for dismissal of State\rquote s defenses of immunity and conduct of others beyond its control. State cross-moved to dismiss seven causes of action and for summary judgment on six causes of action, and also brought a motion in limine seeking to introduce claimant\rquote s prison, mental health, and medical records at trial.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b1 \cf1 \f2 \i0 \fs20 
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Holdings:
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ The Court of Claims, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0519107501&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Catherine E. Leahy-Scott
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb400 
+, J., held that:
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+claimant\rquote s allegations that State failed to maintain its EKG machine and train its staff with respect to its use were grounded in medical malpractice;
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+nurse\rquote s referral of claimant to hospital for telemedicine services satisfied State\rquote s duty of care to claimant;
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+indemnification provision of contract governing hospital\rquote s provision of telemedicine services did not make hospital an agent of the State;
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+State established its prima facie entitlement to judgment as a matter of law dismissing causes of action seeking to hold State liable under a theory of agency or control in fact for the hospital\rquote s acts.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+genuine issue of material fact existed as to whether hospital deviated from acceptable standard of medical care in rendering telemedicine services to inmate claimant, precluding summary judgment;
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+State was not immune from liability for its discretionary decisions regarding claimant\rquote s medical treatment; and
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+State\rquote s failure to particularize others not under its control did not warrant dismissal of its defense alleging that claimant\rquote s injuries stemmed from conduct by claimant or such others.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa200 \sb0 
+\u160\'3f
+\par 
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Motion granted in part and denied in part.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b1 \cf1 \f2 \i0 \fs20 
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Procedural Posture(s):
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Motion for Summary Judgment; Motion to Dismiss; Motion in Limine.
+\par 
+}
+}
+{\b1 \cf28 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\*\bkmkstart co_attorneysAndLawFirms_174}{\*\bkmkend co_attorneysAndLawFirms_174}
+{\b1 \cf28 \f2 \ul0 \strike0 \i0 \fs20 \sa200 \sb200 
+Attorneys and Law Firms
+\par 
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_807_174}{\*\bkmkend co_pp_sp_7980_807_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**807
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ For Claimant: 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0280236901&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+S. Robert Williams
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, PLLC, By: 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0280236901&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+S. Robert Williams
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, Esq. and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0105690801&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Michael R. O\rquote Neill
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, Esq.
+\par 
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+For Defendant: Hon. Letitia James, New York State Attorney General, By: 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0368756301&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Bonnie Gail Levy
+}}}
+\sb200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb200 
+, Esq., Assistant Attorney General.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b1 \cf28 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\*\bkmkstart co_opinion_174}{\*\bkmkend co_opinion_174}
+{\b1 \cf28 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb200 
+Opinion
+\par 
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\*\bkmkstart co_anchor_I465de4929dfc11ebb1dffd1ab7491}{\*\bkmkend co_anchor_I465de4929dfc11ebb1dffd1ab7491}
+\par 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=h&pubNum=176284&cite=0519107501&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Catherine E. Leahy-Scott
+}}}
+\sa200 
+\sb200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa200 \sb200 
+, J.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\*\bkmkstart co_anchor_I4677d5329dfc11ebb1dffd1ab7491}{\*\bkmkend co_anchor_I4677d5329dfc11ebb1dffd1ab7491}
+\par 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_803_174}{\*\bkmkend co_pp_sp_7050_7050_803_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*803
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Claimant Marvin Snyder commenced this Claim on January 11, 2013 seeking damages for the failure of the Department of Corrections and Community Supervision (DOCCS) to timely treat and diagnose a 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ib9c08b34475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+heart attack
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Claimant suffered on February 17, 2012 at Auburn Correctional Facility. Issue was joined on March 18, 2013. An Amended Claim was filed on September 12, 2019 and an answer to the Amended Claim was filed on October 10, 2019.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+On February 17, 2012 at approximately 12:00 p.m., Claimant, then an inmate at Auburn Correctional Facility, began experiencing chest pain (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Affirmation of Bonnie Gail Levy, Assistant Attorney General, Esq., dated August 24, 2020 [Levy Aff] 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_804_174}{\*\bkmkend co_pp_sp_7050_7050_804_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*804
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Ex 12
+}
+{\b0 \cf1 \f2 \i0 \fs16 
+{\*\bkmkstart co_fnRef_B00012052547149_ID0EWTAI_174}{\*\bkmkend co_fnRef_B00012052547149_ID0EWTAI_174}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00012052547149_174" }{\fldrslt 
+{\super \b0 \cf24 \f2 \ul0 \strike0 \i0 \fs16 \sa0 \sb0 
+1
+}}}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [Claimant\rquote s First EBT], at 51-52).
+}
+{\b0 \cf1 \f2 \i0 \fs16 
+{\*\bkmkstart co_fnRef_B00022052547149_ID0E6TAI_174}{\*\bkmkend co_fnRef_B00022052547149_ID0E6TAI_174}
+{\field {\*\fldinst HYPERLINK "#co_footnote_B00022052547149_174" }{\fldrslt 
+{\super \b0 \cf24 \f2 \ul0 \strike0 \i0 \fs16 \sa0 \sb0 
+2
+}}}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ This pain intensified over the next hour and began to spread to his neck, left arm, and left shoulder (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ at 55). After reporting his pain to a correction officer, Claimant was brought to the infirmary where he met with Nurse Annette Boyd (Nurse Boyd) at approximately 3:00 p.m. (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; Ex 15 [Nurse Boyd EBT] at 43).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Upon arrival to the infirmary, Claimant explained to Nurse Boyd that he had been experiencing severe chest pain for the previous two hours (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Nurse Boyd EBT at 51). In response to Claimant\rquote s complaint, Nurse Boyd took Claimant\rquote s vitals and attempted to administer an 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mproc&entityId=I11e583a0ff5111dc84008c7818c06073&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+electrocardiogram
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ (EKG); however, Nurse Boyd could not get the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ to work (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ at 46-47). After Nurse Boyd determined the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ was inoperable, she contacted Erie County Medical Center (ECMC) to provide telemedicine services to Claimant (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ at 50).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Telemedicine, or telemed, is \u8220\'3fproviding medical consultation for patients over a link through a television or through a computer with television-type services\u8221\'3f (Levy Aff, Ex 19 [Manka EBT], at 7). ECMC provides telemedicine services to Auburn Correctional Facility pursuant to a contract (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Affirmation of Michelle Rudderow, Esq. [Rudderow Aff], Ex L [Contract]). Nurse Boyd explained she sought ECMC\rquote s telemedicine services because the Auburn Correctional Facility doctor was not available to see Claimant (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Nurse Boyd EBT, at 50).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_808_174}{\*\bkmkend co_pp_sp_7980_808_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**808
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Claimant\rquote s telemedicine consultation was handled by Jennifer McCaul (f/k/a Jennifer Teleuk), a Physician Assistant (PA McCaul). PA McCaul received a patient referral form from DOCCS detailing Claimant\rquote s vital signs and medical history. Specifically, the record stated
+\par 
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li200 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u8220\'3f29-year-old male with 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ic21f07f3475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+thoracic outlet syndrome
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb200 
+. Complaining of chest pain time two hours. Pain also in neck and arms. Positive shortness of breath. Facility unable to obtain EKG, \u8216\'3fbecause machine won\rquote t work.\u8217\'3f No known injury. States same pain as he has had in the past\u8221\'3f
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+(Levy Aff 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_805_174}{\*\bkmkend co_pp_sp_7050_7050_805_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*805
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Ex 21 [PA McCaul EBT], at 17). PA McCaul diagnosed Claimant with left upper extremity pain (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ at 29). PA McCaul considered ordering an EKG to be performed due to Claimant\rquote s complaint of chest pain, but ultimately did not order one because Claimant\rquote s vitals were good, he was \u8220\'3f29[,] ... ha[d] a history of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ic21f07f3475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+thoracic outlet syndrome
+}}}
+\sb200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+[,] and ... told [her] he\rquote s had this same pain in the past which is not concerning for something acute to be occurring\u8221\'3f (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ at 52; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ at 32-33, 63-65, 71-72). PA McCaul ordered that Claimant be administered 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=bdrug&entityId=I396ed71e475111db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Tylenol
+}}}
+\sb200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ No.3 and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=bdrug&entityId=I38cb9255475111db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Ultram
+}}}
+\sb200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ and returned to his cell (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ at 36, 50-51, 65; Nurse Boyd EBT, at 49). Dr. Michael Manka (Dr. Manka), the attending physician at ECMC, agreed with PA McCaul\rquote s assessment of Claimant\rquote s condition and signed the telemed form with PA McCaul\rquote s medical orders shortly after her determination was made (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb200 
+ PA McCaul EBT at 15-16; Manka EBT, at 57-58).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+After the telemedicine consultation was complete, Nurse Boyd administered Claimant\rquote s medication per the telemed orders, observed Claimant for 15 minutes, and then sent him back to his cell at approximately 4:00 p.m. (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Nurse Boyd EBT, at 77).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Claimant remained in his cell until approximately 10:00 p.m. when Correction Officer Christopher Waterman (Correction Officer Waterman) noticed Claimant \u8220\'3fwas on his bars all sweaty, pale and ... obviously sick\u8221\'3f (Levy Aff, Ex 18 [Waterman EBT], at 16). Claimant was immediately transferred to the infirmary where he met with Nurse Richard Sharples (Nurse Sharples) at approximately 10:30 p.m. (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Ex 17).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Prior to Claimant\rquote  arrival to the infirmary for the second time, Nurse Boyd informed Nurse Sharples of Claimant\rquote s earlier infirmary visit, including the purported inoperability of the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Ex 16 [Sharples EBT], at 9). Nurse Sharples fixed the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ prior to Claimant\rquote s second arrival to the infirmary by shutting the machine down, unplugging and then plugging the machine back into place, and rebooting it (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). The 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ had been rebooted in such manner approximately four times in the prior three to four years (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ at 10).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Upon Claimant\rquote s arrival to the infirmary for the second time, Nurse Sharples performed an EKG which revealed Claimant was having a 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ib9c08b34475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+heart attack
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ at 22). After a second telemedicine consultation with ECMC, Claimant was transferred to SUNY Upstate Medical University Hospital (Upstate) for emergency 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_806_174}{\*\bkmkend co_pp_sp_7050_7050_806_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*806
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ treatment (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Rudderow Aff Exs R, S). At Upstate, Claimant was diagnosed with \u8220\'3f[a]cute ST elevation 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ib9c08b34475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+myocardial infarction
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+[,] ... [a]cute 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Iac49bc77475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+systolic heart failure
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+[,] ... [a]cute 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ib7c864ba475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+left ventricular thrombus
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+[, and] ... 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ic21f2ef8475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+antiphospholipid antibody syndrome
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ of hypercoagulable state,\u8221\'3f with an ejection fraction of 25-30% (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Ex S). Claimant underwent an emergency 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mproc&entityId=Ib9c08b30475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+cardiac catheterization
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ and had an 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ib666b197475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+aortic balloon pump
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ inserted (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). Claimant subsequently received an 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ibc283c5f475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+implantable cardioverter defibrillator
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ (ICD) in April 2014 (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Claimant\rquote s First EBT, at 97) and has received follow up 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_809_174}{\*\bkmkend co_pp_sp_7980_809_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**809
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ care from Central New York Cardiology regarding same (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Levy Aff Exs 39-40).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Claimant now moves for summary judgment on its first, second, third, eighth and ninth causes of action or, alternatively, an order dismissing Defendant\rquote s second and third affirmative defenses (M-95437). The first cause of action alleges that Defendant was negligent and departed from accepted standard of medical practice in treating Claimant\rquote s heart condition. As part of the first cause of action, Claimant avers that Defendant was negligent \u8220\'3fin failing to maintain, repair or have a properly functioning 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u8221\'3f (Rudderow Aff, Ex C [Amended Claim] \u182\'3f 30).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The second cause of action alleges Defendant breached its \u8220\'3fduty of care to monitor [Claimant\rquote s] condition, to properly diagnose and/or treat said condition, [and] to ensure that ... [C]laimant received prompt and adequate medical attention\u8221\'3f (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u182\'3f 37).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The third cause of action asserts Defendant is vicariously liable under the doctrine of respondeat superior (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u182\'3f\u182\'3f 40-45) in that Defendant should be held liable for the treatment decisions made during the telemedicine consultation (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u182\'3f\u182\'3f 15-17).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The fourth cause of action alleges a claim for negligent hiring, retention, and training of Defendant\rquote s employees with regard to diagnosing and treating Claimant (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u182\'3f\u182\'3f 47-49).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The eighth cause of action alleges a claim for medical malpractice premised upon the consequences of Defendant\rquote s delay in treating Claimant\rquote s 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ib9c08b34475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+heart attack
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+. In particular, the eighth cause of action states that Defendant\rquote s failure to render prompt treatment required the placement of a 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic7560599475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+stent
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ and \u8220\'3fnecessitated the immediate placement of a 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ib3ef4943475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+defibrillator
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ implant that ... Defendant delayed providing\u8221\'3f (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u182\'3f 70). Claimant avers that Defendant has continued to fail to provide adequate medical care to Claimant by 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_807_174}{\*\bkmkend co_pp_sp_7050_7050_807_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*807
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u8220\'3ffailing to provide ... Claimant with an ICD (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ibc283c5f475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+implantable cardioverter defibrillator
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+) scans [sic] every 90 days; allowing the battery level in ... Claimant\rquote s 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ib3ef4943475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+defibrillator
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ to reach levels that are considered to be dangerous; allowing conditions to exist that caused ... Claimant\rquote s 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ib3ef4943475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+defibrillator
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ battery to discharge causing additional damage to ... Claimant\u8221\'3f (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u182\'3f 71). The ninth cause of action alleges a Claim for prima facie tort.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Defendant opposes Claimant\rquote s motion and cross-moves to dismiss Claimant\rquote s first, second, third, sixth, seventh, eighth and ninth causes of action pursuant to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000059&cite=NYCPR3211&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+CPLR 3211
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ and for summary judgment on Claimant\rquote s first, second, third, fourth, eighth and ninth causes of action (CM-95852). Defendant separately seeks a motion in limine permitting the introduction of evidence at trial of certain prison, mental health, and medical records involving Claimant\rquote s treatment after July 7, 2020 and allowing Defendant\rquote s experts to rely on same in preparing their reports and testifying at trial (M-95853). Because a portion of Defendant\rquote s cross motion to dismiss implicates this Court\rquote s jurisdiction, the Court will address it first.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B12052547149_174}{\*\bkmkend co_anchor_B12052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Defendant moves to dismiss Claimant\rquote s sixth and seventh causes of action pursuant to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000059&cite=NYCPR3211&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=SP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+CPLR 3211 (a) (2)
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ on the ground that the Court lacks subject matter jurisdiction over such claims. The sixth and seventh causes of action allege violations of Claimant\rquote s rights under the US Constitution. It is well settled that \u8220\'3fclaims for damages against the State based upon alleged deprivation of rights under the US Constitution are beyond the jurisdiction of the Court of Claims\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2018566571&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1151&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1151" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Shelton v. New York State Liq. Auth.
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 61 A.D.3d 1145, 1151, 878 N.Y.S.2d 212 [3d Dept. 2009]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001747684&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_498&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_498" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Welch v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 286 A.D.2d 496, 498, 729 N.Y.S.2d 527 [2d Dept. 2001]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_810_174}{\*\bkmkend co_pp_sp_7980_810_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**810
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1989057226&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_504&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_504" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Zagarella v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 149 A.D.2d 503, 504, 539 N.Y.S.2d 803 [2d Dept. 1989]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1986153726&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_423&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_423" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Davis v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 124 A.D.2d 420, 423, 507 N.Y.S.2d 520 [3d Dept. 1986]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Russell v. State of New York
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, UID No. 2017-041-501 [Ct Cl, Milano, J., Mar. 2, 2017]). Consequently, Defendant\rquote s motion to dismiss Claimant\rquote s sixth and seventh causes of action are granted.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B22052547149_174}{\*\bkmkend co_anchor_B22052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Additionally, Defendant moves pursuant to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000059&cite=NYCPR3211&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=SP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_8b3b0000958a4" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+CPLR 3211 (a) (7)
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ to dismiss Claimant\rquote s ninth cause of action alleging a prima facie tort for failure to state a cause of action. Public policy prohibits a claimant from asserting a claim for prima facie tort against the State of New York (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_808_174}{\*\bkmkend co_pp_sp_7050_7050_808_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*808
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1998130762&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_101&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_101" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Cavanaugh v. Doherty
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 243 A.D.2d 92, 101, 675 N.Y.S.2d 143 [3d Dept. 1998]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+V.V. v. State of New York
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, UID No. 2019-032-074 [Ct Cl, Hard, J., Dec. 16, 2019]; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2038468085&pubNum=0004031&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Mahoney v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, UID No. 2015-009-100 [Ct. Cl., Midey, Jr., J., Sept. 1, 2015]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see also
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1974121822&pubNum=0000602&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Van Buskirk v. Bleiler
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 46 A.D.2d 707, 707-708, 360 N.Y.S.2d 88 [3d Dept. 1974]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). Accordingly, Defendant\rquote s motion to dismiss Claimant\rquote s ninth cause of action alleging prima facie tort is granted.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Defendant also seeks dismissal of Claimant\rquote s first, second, third, and eighth causes of action for the failure to specifically name ECMC in the Amended Claim (Levy Aff \u182\'3f 7). In opposition, Claimant contends that the Amended Claim misnames ECMC as \u8220\'3fUniversity Emergency Medical Services\u8221\'3f (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Amended Claim \u182\'3f\u182\'3f 7-8,15-17) and that such error is not fatal to the Claim because the Court may permit further amendment of the pleadings to conform to the evidence pursuant to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000059&cite=NYCPR3025&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=SP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_4b24000003ba5" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+CPLR 3025 (c)
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Affirmation of S. Robert Williams, Esq. & Michael R. O\rquote Neill, Esq. \u182\'3f\u182\'3f 57-61). University Emergency Medical Services provides physician services to the emergency department at ECMC, including telemedicine service for inmates in custody of DOCCS (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Manka EBT, at 7-8).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B32052547149_174}{\*\bkmkend co_anchor_B32052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B42052547149_174}{\*\bkmkend co_anchor_B42052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B52052547149_174}{\*\bkmkend co_anchor_B52052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u8220\'3fThe court may permit pleadings to be amended before or after judgment to conform them to the evidence, upon such terms as may be just including granting of costs and continuances\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000059&cite=NYCPR3025&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+CPLR 3025 [c]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). In determining whether to conform the pleadings to the evidence, \u8220\'3fthe courts consider such factors as the delay in moving, surprise, and significant prejudice, the latter being the foremost consideration\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993116993&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_534&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_534" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Rothstein v. City Univ. of NY
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 194 A.D.2d 533, 534, 599 N.Y.S.2d 39 [2d Dept. 1993]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978144666&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_605_404&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_605_404" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Murray v. City of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 43 N.Y.2d 400, 404-406, 401 N.Y.S.2d 773, 372 N.E.2d 560 [1977]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+rearg
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+dismissed
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978243130&pubNum=0000578&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+45 N.Y.2d 966, 412 N.Y.S.2d 1025, 384 N.E.2d 692 [1978]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). The Court of Appeals has held
+\par 
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li200 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb200 
+\u8220\'3fPrejudice is more than the mere exposure of the party to greater liability. Rather, there must be some indication that the party has been hindered in the preparation of the party\rquote s case or has been prevented from taking some measure in support of its position. The burden of establishing prejudice is on the party opposing the amendment\u8221\'3f
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+(
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2034846543&pubNum=0007048&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7048_411&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7048_411" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Kimso Apts., LLC v. Gandhi
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 24 N.Y.3d 403, 411, 998 N.Y.S.2d 740, 23 N.E.3d 1008 [2014]
+}}}
+\sb200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal quotation marks, citations, and alterations, omitted]). Thus, \u8220\'3fabsent prejudice, courts are free to permit amendment even after trial\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2034846543&pubNum=0007048&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}}}
+\sb200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978144666&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_605_405&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_605_405" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Murray
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 43 N.Y.2d at 405, 401 N.Y.S.2d 773, 372 N.E.2d 560
+}}}
+\sb200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). Further, the decision to permit the amendment of a pleading rests in the 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_809_174}{\*\bkmkend co_pp_sp_7050_7050_809_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*809
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ sound discretion of the Court (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2034846543&pubNum=0007048&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7048_411&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7048_411" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Kimso
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 24 N.Y.3d at 411, 998 N.Y.S.2d 740, 23 N.E.3d 1008
+}}}
+\sb200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see also
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1984156267&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_605_224&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_605_224" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Matter of Von Bulow
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 63 N.Y.2d 221, 224, 481 N.Y.S.2d 67, 470 N.E.2d 866 [1984]
+}}}
+\sb200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb200 
+ [\u8220\'3f(t)he lower courts have considerable latitude in exercising their discretion, which may be upset ... only for abuse as a matter of law\u8221\'3f]).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B62052547149_174}{\*\bkmkend co_anchor_B62052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The Court has authority to 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+sua sponte
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ amend a claim to conform to the evidence presented on a motion and cross motion for summary judgment in the absence of any prejudice to the defendant 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_811_174}{\*\bkmkend co_pp_sp_7980_811_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**811
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2003896702&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_388&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_388" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Cave v. Kollar
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 2 A.D.3d 386, 388, 767 N.Y.S.2d 856 [2d Dept. 2003]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1992075285&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_976&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_976" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+River Val. Assoc. v. Consolidated Rail Corp.
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 182 A.D.2d 974, 976, 581 N.Y.S.2d 935 [3d Dept. 1992]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Aughtry v. State of New York
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, UID No. 2019-029-033 [Ct Cl, Mignano, J., May 22, 2019]; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+cf.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2039944859&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1240&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1240" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Broadway Warehouse Co. v. Buffalo Barn Bd., LLC
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 143 A.D.3d 1238, 1240-1241, 39 N.Y.S.3d 555 [4th Dept. 2016]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [declining to amend the complaint 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+sua sponte
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ on the ground that the defendants would be prejudiced by the amendment, the addition of new theories of recovery]).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B72052547149_174}{\*\bkmkend co_anchor_B72052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The Court concludes that Defendant would not be prejudiced by amending the Amended Claim 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+sua sponte
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ to relieve Claimant of misidentifying and/or misnaming \u8220\'3fUniversity Emergency Medical Services\u8221\'3f instead of ECMC (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see e.g.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1999252447&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_270&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_270" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Perrin v. McKenzie
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 266 A.D.2d 269, 270, 698 N.Y.S.2d 41 [2d Dept. 1999]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). Both parties have extensively discussed Defendant\rquote s relationship with ECMC in support of their respective applications; and Defendant has not established that Claimant\rquote s failure to name ECMC in the Amended Claim has hindered its preparation of the case or prevented it from taking some measure in support of its position (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2034846543&pubNum=0007048&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7048_411&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7048_411" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Kimso
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 24 N.Y.3d at 411, 998 N.Y.S.2d 740, 23 N.E.3d 1008
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). Accordingly, the balance of Defendant\rquote s motion to dismiss is denied and, pursuant to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000059&cite=NYCPR3025&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=SP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_4b24000003ba5" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+CPLR 3025 (c)
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, the Court 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+sua sponte
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ amends the Amended Claim to conform to the proof presented on the parties\rquote  motions for summary judgment by replacing references to \u8220\'3fUniversity Emergency Medical Services\u8221\'3f with ECMC.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B82052547149_174}{\*\bkmkend co_anchor_B82052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B92052547149_174}{\*\bkmkend co_anchor_B92052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Turning to the parties\rquote  competing applications for summary judgment, it is well settled that summary judgment is \u8220\'3fa drastic remedy which should only be employed when there is no doubt as to the absence of triable issues\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1978124686&pubNum=0000602&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+St. Paul Indus. Park v. New York State Urban Dev. Corp.
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 63 A.D.2d 822, 822, 406 N.Y.S.2d 178 [4th Dept. 1978]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal quotation marks and citations omitted]). \u8220\'3f[T]he proponent of a summary judgment motion must make a prima facie showing of entitlement to judgment as a matter of law, tendering sufficient evidence to demonstrate the absence of any material issues of fact\u8221\'3f
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1986157003&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_605_324&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_605_324" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Alvarez v. Prospect Hosp.
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 68 N.Y.2d 320, 324, 508 N.Y.S.2d 923, 501 N.E.2d 572 [1986]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). Once the proponent of a motion for 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_810_174}{\*\bkmkend co_pp_sp_7050_7050_810_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*810
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ summary judgment has established its prima facie entitlement to judgment as a matter of law, \u8220\'3fthe burden shifts to the party opposing the motion for summary judgment to produce evidentiary proof in admissible form sufficient to establish the existence of material issues of fact which require a trial of the action\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1986157003&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1980113707&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_605_562&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_605_562" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Zuckerman v. City of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 49 N.Y.2d 557, 562, 427 N.Y.S.2d 595, 404 N.E.2d 718 [1980]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B102052547149_174}{\*\bkmkend co_anchor_B102052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B112052547149_174}{\*\bkmkend co_anchor_B112052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u8220\'3fOn a motion for summary judgment the burden on the court is not to resolve issues of fact or determine matters of credibility but merely to determine whether such issues exist\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1995067889&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_1075&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_1075" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Newton v. Gross
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 213 A.D.2d 1074, 1075, 625 N.Y.S.2d 987 [4th Dept. 1995]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal quotation marks, alteration, and citation omitted]). Thus, \u8220\'3f[s]ummary judgment is not appropriate in a medical malpractice action where the parties adduce conflicting medical expert opinions\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2042089227&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1189&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1189" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Moyer v. Roy
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 152 A.D.3d 1188, 1189, 57 N.Y.S.3d 867 [4th Dept. 2017]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2025594718&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_914&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_914" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Haas v. F.F. Thompson Hosp., Inc.
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 86 A.D.3d 913, 914, 926 N.Y.S.2d 248 [4th Dept. 2011]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1994040631&pubNum=0000602&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Luthart v. Danesh
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 201 A.D.2d 930, 930-931, 609 N.Y.S.2d 706 [4th Dept. 1994]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B122052547149_174}{\*\bkmkend co_anchor_B122052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B132052547149_174}{\*\bkmkend co_anchor_B132052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+It is well settled \u8220\'3fthat the State owes a duty to provide medical care and treatment to its prisoners, which duty has been defined in terms of both negligence and medical malpractice\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1996150491&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_16&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_16" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Kagan v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 221 A.D.2d 7, 16, 646 N.Y.S.2d 336 [2d Dept. 1996]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal citations omitted]; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_812_174}{\*\bkmkend co_pp_sp_7980_812_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**812
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2010966241&pubNum=0000602&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Lowe v. State of New 
+}
+}
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 35 A.D.3d 1281, 1282, 827 N.Y.S.2d 798 [4th Dept. 2006]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1990043986&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_789&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_789" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Rivers v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 159 A.D.2d 788, 789, 552 N.Y.S.2d 189 [3d Dept. 1990]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). \u8220\'3fUnder both theories, however, [the] claimant must establish that the negligence of the State or the State\rquote s deviation from the accepted standard of care was the proximate cause of the claimant\rquote s injuries\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2010966241&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1282&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1282" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Lowe
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 35 A.D.3d at 1282, 827 N.Y.S.2d 798
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2035810857&pubNum=0007980&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Knight v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 127 A.D.3d 1435, 1435, 6 N.Y.S.3d 807 [3d Dept. 2015]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+appeal dismissed
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2036955978&pubNum=0007902&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+25 N.Y.3d 1212, 16 N.Y.S.3d 506, 37 N.E.3d 1148 [2015]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B142052547149_174}{\*\bkmkend co_anchor_B142052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B152052547149_174}{\*\bkmkend co_anchor_B152052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The distinction between a cause of action sounding in medical malpractice and one alleging medical negligence \u8220\'3fis a subtle one, for medical malpractice is but a species of negligence and no rigid analytical line separates the two\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2037427110&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_10&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_10" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Martuscello v. Jensen
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 134 A.D.3d 4, 10, 18 N.Y.S.3d 463 [3d Dept. 2015]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal quotation marks and citations omitted]; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1996258149&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_605_787&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_605_787" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Weiner v. Lenox Hill Hosp.
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 88 N.Y.2d 784, 787, 650 N.Y.S.2d 629, 673 N.E.2d 914 [1996]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). \u8220\'3fThe issue devolves to whether medical judgment is required or not; where the underlying claim arises from the failure to follow a medical order previously made or to apply standards of ordinary care, then it is negligence, without regard to whether expert testimony is deemed helpful to the 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_811_174}{\*\bkmkend co_pp_sp_7050_7050_811_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*811
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ resolution. However, where the conduct involves a standard established by means of the exercise of medical judgment, then it is malpractice\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2037427110&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_11&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_11" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Martuscello
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 134 A.D.3d at 11, 18 N.Y.S.3d 463
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1996258149&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_605_788&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_605_788" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Weiner
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 88 N.Y.2d at 788, 650 N.Y.S.2d 629, 673 N.E.2d 914
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2039449763&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_702&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_702" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Moore v. St. James Health Care Ctr., LLC
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 141 A.D.3d 701, 702-703, 35 N.Y.S.3d 464 [2d Dept. 2016]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B162052547149_174}{\*\bkmkend co_anchor_B162052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Claimant purports to assert causes of action grounded in both ordinary negligence and medical malpractice. As to ordinary negligence, Claimant alleges Defendant was negligent in failing to maintain its 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ and/or train its staff with respect to use of the machine (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Amended Claim \u182\'3f\u182\'3f 30, 47-49; Rudderow Aff \u182\'3f\u182\'3f 71-78). Courts have held that the claimed failures related to the administration of medical diagnostic testing bear a substantial relationship to the rendition of medical treatment and sound in medical malpractice (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see e.g. 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1993129472&pubNum=0000602&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_602_423&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_602_423" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Matter of
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Bates v. New York City Health & Hosps. Corp.
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 194 A.D.2d 422, 423-424, 599 N.Y.S.2d 246 [1st Dept. 1993]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [claim that the defendant was negligent in failing to order an MRI sounded in medical malpractice]). Similarly, allegations regarding the failure to train medical employees regarding the use of medical equipment to ensure proper diagnosis and treatment are grounded in medical malpractice (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1999251231&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_808&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_808" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Cullinan v. Pignataro
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 266 A.D.2d 807, 808, 698 N.Y.S.2d 381 [4th Dept. 1999]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1996244270&pubNum=0000602&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_602_964&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_602_964" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Matter of
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Barresi v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 232 A.D.2d 962, 964, 649 N.Y.S.2d 207 [3d Dept. 1996]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B172052547149_174}{\*\bkmkend co_anchor_B172052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Here, the gravamen of the ordinary negligence cause of action is that Defendant failed to maintain its 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ and/or train its staff with respect to the use of the machine, which prevented Defendant from diagnosing and treating his 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ib9c08b34475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+heart attack
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ when he first presented to the infirmary on February 17, 2012. The Court concludes that these allegations \u8220\'3fbear[ ] a substantial relationship to the rendition of medical treatment\u8221\'3f and are grounded in medical malpractice (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1985123346&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_605_72&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_605_72" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Bleiler v. Bodnar
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 65 N.Y.2d 65, 72, 489 N.Y.S.2d 885, 479 N.E.2d 230 [1985]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Serrano v. State of New York
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, UID No. 2017-032-001 [Ct Cl, Hard, J., Feb. 27, 2017]).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B182052547149_174}{\*\bkmkend co_anchor_B182052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B192052547149_174}{\*\bkmkend co_anchor_B192052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Accordingly, Claimant \u8220\'3fmust demonstrate that [Defendant] deviated from acceptable medical practice, and that such deviation was a proximate cause of [his] injury\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2030880592&pubNum=0007048&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7048_545&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7048_545" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+James v. Wormuth
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 21 N.Y.3d 540, 545, 974 N.Y.S.2d 308, 997 N.E.2d 133 [2013]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_813_174}{\*\bkmkend co_pp_sp_7980_813_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**813
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2039272093&pubNum=0007048&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7048_705&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7048_705" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Mazella v. Beals
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 27 N.Y.3d 694, 705, 57 N.E.3d 1083 [2016]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). \u8220\'3f[T]o establish proximate causation, the [claimant] must demonstrate that the defendant\rquote s deviation from the standard of care was a substantial factor in bringing about the injury\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2039891619&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1331&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1331" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Clune v. Moore
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 142 A.D.3d 1330, 1331, 38 N.Y.S.3d 852 [4th Dept. 2016]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_812_174}{\*\bkmkend co_pp_sp_7050_7050_812_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*812
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal quotation marks and citation omitted]; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2030673166&pubNum=0007048&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7048_954&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7048_954" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Wild v. Catholic Health Sys.
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 21 N.Y.3d 951, 954-955, 969 N.Y.S.2d 846, 991 N.E.2d 704 [2013]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). \u8220\'3fWhere, as here, the [claimant] alleges that the defendant negligently failed or delayed in diagnosing and treating a condition, a finding that the negligence was a proximate cause of an injury to the patient may be predicated on the theory that the defendant thereby diminished [the patient\rquote s] chance of a better outcome\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2039891619&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1331&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1331" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Clune
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 142 A.D.3d at 1331, 38 N.Y.S.3d 852
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal quotation marks and citation omitted]; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2036663691&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1524&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1524" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Wolf v. Persaud
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 130 A.D.3d 1523, 1524-1525, 14 N.Y.S.3d 601 [4th Dept. 2015]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2021930641&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_694&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_694" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Goldberg v. Horowitz
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 73 A.D.3d 691, 694, 901 N.Y.S.2d 95 [2d Dept. 2010]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The facts of this case are strikingly analogous to those presented in 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Serrano v. State of New York
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ (UID No. 2017-032-001). Similar to the instant case, the claimant in 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Serrano
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ was an inmate who alleged that the defendant failed to timely diagnose and treat his 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ib9c08b34475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+heart attack
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ after he presented to the infirmary with chest and shoulder pain. Judge Judith A. Hard held that \u8220\'3f(the) defendant departed from accepted medical practice in failing to refer claimant to a physician 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+or
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ perform an EKG when he presented with chest and shoulder pain\u8221\'3f (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [emphasis added]).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B202052547149_174}{\*\bkmkend co_anchor_B202052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Here, it is undisputed that when Claimant first presented to the infirmary with severe chest pain, Nurse Boyd took his vitals and attempted to administer an 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mproc&entityId=I11e583a0ff5111dc84008c7818c06073&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+electrocardiogram
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ (EKG) (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Nurse Boyd EBT at 46-47, 51). Additionally, it is undisputed that after Nurse Boyd determined the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ was inoperable, she referred Claimant to ECMC for telemedicine services (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ at 50). The parties agree that the telemedicine consultation was handled by PA McCaul who diagnosed Claimant with left upper extremity pain (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ PA McCaul EBT at 29) and ordered that Claimant be administered 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=bdrug&entityId=I396ed71e475111db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Tylenol
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ #3 and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=bdrug&entityId=I38cb9255475111db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Ultram
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ and returned to his cell (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ at 36, 50-51, 65; Nurse Boyd EBT, at 49). The parties do not contest that Dr. Manka, the attending physician at ECMC, agreed with PA McCaul\rquote s assessment of Claimant\rquote s condition and signed the telemed form with PA McCaul\rquote s medical orders shortly after her determination was made (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ PA McCaul EBT at 15-16; Manka EBT, at 57-58).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Based upon these uncontested material facts, the Court concludes, consistent with the holding in 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Serrano
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, that Nurse Boyd acted within accepted medical practice by referring Claimant to ECMC for telemedicine services after she could not 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_813_174}{\*\bkmkend co_pp_sp_7050_7050_813_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*813
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ get the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ to work. Stated differently, notwithstanding its failure to administer an EKG to Claimant, Defendant satisfied its duty of care to Claimant by referring him to ECMC for telemedicine services, which culminated with a treatment order signed by a physician. Accordingly, the Court grants Defendant\rquote s cross motion for summary judgment insofar as dismissing so much of Claimant\rquote s first and fourth causes of action alleging that Defendant, through the conduct of DOCCS, negligently failed to perform an electrocardiogram (EKG) of Claimant; maintain, repair, or have a properly functioning 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; and negligently hired, retained, and trained DOCCS\rquote  employees.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Claimant also argues in support of its motion for summary judgment that Defendant should be held vicariously liable for the any malpractice committed by ECMC as a result of Claimant\rquote s telemedicine consultation 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_814_174}{\*\bkmkend co_pp_sp_7980_814_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**814
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ under a theory of agency or control in fact and/or apparent or ostensible agency (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Rudderow Aff \u182\'3f\u182\'3f 88-94). Defendant counters, contending that ECMC was an independent contractor whose actions cannot be attributed to the State (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Levy Aff \u182\'3f 169-186). Accordingly, Defendant cross moves for summary judgment dismissing those portions of the Claim which seek to hold it liable for the conduct of ECMC in rendering telemedicine services.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B212052547149_174}{\*\bkmkend co_anchor_B212052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B222052547149_174}{\*\bkmkend co_anchor_B222052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B232052547149_174}{\*\bkmkend co_anchor_B232052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u8220\'3fTraditionally, a hospital or medical facility is liable only for the medical malpractice of its employees and not that of independently contracted doctors\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2037991803&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1109&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1109" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Garofolo v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 135 A.D.3d 1108, 1109, 23 N.Y.S.3d 667 [3d Dept. 2016]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). \u8220\'3fWhether the state is vicariously liable for the medical malpractice of independent contractors in Court of Claims actions is determined by a theory of agency or control in fact, or apparent or ostensible agency\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2043545153&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1029&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1029" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Rothschild v. Braselmann
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 157 A.D.3d 1027, 1029, 69 N.Y.S.3d 375 [3d Dept. 2018]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal quotation marks and citations omitted]; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2037991803&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1109&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1109" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Garofolo
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 135 A.D.3d at 1109, 23 N.Y.S.3d 667
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). \u8220\'3fThe issue of agency or control in fact necessarily focuses on the relationship between the doctor and DOCCS and not the relationship between the doctor and [the] claimant\u8221\'3f (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Rothschild v. State of New York
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, UID No. 2019-044-507 [Ct Cl, Schaewe, J., Feb. 7, 2019] [internal quotation marks, alteration, and citation omitted]; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1988044198&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_605_547&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_605_547" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Kavanaugh v. Nussbaum
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 71 N.Y.2d 535, 547, 528 N.Y.S.2d 8, 523 N.E.2d 284 [1988]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B242052547149_174}{\*\bkmkend co_anchor_B242052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+To support its theory of agency or control in fact, Claimant relies upon a contract between ECMC and DOCCS (the Contract) whereby ECMC agreed to provide telemedicine services (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Rudderow 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_814_174}{\*\bkmkend co_pp_sp_7050_7050_814_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*814
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Aff Ex L [Contract]). Specifically, Claimant relies upon Section IX of the Contract entitled \u8220\'3fDefense and Indemnification\u8221\'3f that states
+\par 
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li200 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u8220\'3fPursuant to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000064&cite=NYCTS24-A&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Correction Law \u167\'3f 24-a
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000124&cite=NYPOS17&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Public Officers Law \u167\'3f 17
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb200 
+, the State shall defend and indemnify any person ... who is rendering, or has rendered, professional services, ... while acting at the request of DOC[C]S ... in providing health care and treatment or professional consultation to inmates of State Correctional Facilities ... without regard to whether such health care and treatment or professional consultation is provided within or without a correctional facility\u8221\'3f
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+(Contract, at 12-13). Claimant reasons that because 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000124&cite=NYPOS17&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Public Officers Law \u167\'3f 17
+}}}
+\sb200 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ only provides defense and indemnification to state employees and does not cover independent contractors, it is evident that the Contract was intended to make ECMC an agent of Defendant and/or DOCCS (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb200 
+ Claimant\rquote s Mem of Law, at 11-12).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+It appears Claimant\rquote s interpretation ignores the other statute referenced in the Contract, 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000064&cite=NYCTS24-A&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Correction Law \u167\'3f 24-a
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+. Indeed, the Contract specifically tracks the language of Correction Law \u167\'3f 24-a, which extends the defense and indemnification protections of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000124&cite=NYPOS17&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Public Officers Law \u167\'3f 17
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u8220\'3fto any person ... who is rendering or has rendered professional services ... while acting at the request of [DOCCS] ... in providing health care and treatment or professional consultation to inmates of state correctional facilities.\u8221\'3f As Defendant notes, the purpose of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000064&cite=NYCTS24-A&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Correction Law \u167\'3f 24-a
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ is to \u8220\'3f \u8216\'3fextend[ ] the benefits of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000124&cite=NYPOS17&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=LQ&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Public Officers Law \u167\'3f 17
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ to 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+non-employee health professionals
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ of both the Department of Correction and the Department of Mental Hygiene who render professional care at the request of those agencies\u8217\'3f \u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2042654145&pubNum=0000999&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Col\u243\'3fn v. New York State Dept. of Corr. & Community Supervision
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 2017 WL 4157372, *10, 2017 US Dist LEXIS 151035 [S.D. N.Y., Sept. 15, 2017, No. 15 Civ 7432 (NSR)
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+], quoting 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=0103252095&pubNum=0000904&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=DE&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+1980 Ops Atty Gen 40
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [emphasis added]). Consequently, the Court concludes that the Claimant has failed to meet 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_815_174}{\*\bkmkend co_pp_sp_7980_815_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**815
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ its prima facie burden of establishing that Defendant shall be vicariously liable for the acts of ECMC under the theory of agency or control in fact.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B252052547149_174}{\*\bkmkend co_anchor_B252052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Conversely, Defendant has established its entitlement to judgment as a matter of law dismissing so much of Claimant\rquote s first, second, third, fourth, and eighth causes of action to the extent Claimant seeks to hold Defendant liable for the acts of 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_815_174}{\*\bkmkend co_pp_sp_7050_7050_815_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*815
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ ECMC under the theory of agency or control in fact. Specifically, Dr. Paula R. Bozer, the Wende Regional Medical Director for DOCCS and \u8220\'3fliaison between ECMC\rquote s Telemed Emergency Services and DOCCS\u8221\'3f affirmed \u8220\'3f[n]either ECMC, nor the medical staff which ECMC employs to provide services pursuant to [the Contract] with DOCCS, are now, or were in 2012, employees of the State of New York or DOCCS\u8221\'3f (Affidavit of Paula R. Bozer, sworn to on July 16, 2020 \u182\'3f\u182\'3f 2, 3, 8). Moreover, Dr. Bozer clarified that \u8220\'3fDOCCS had no input under the [C]ontract into whom ECMC employed to provide the various services pursuant to [the Contract] with DOCCS, nor did DOCCS have any supervisory authority over said employees of ECMC\u8221\'3f (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u182\'3f 8). The primary care physician at the correctional facility has authority to review and overrule the treatment recommendations of ECMC staff (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Similarly, both Dr. Manka and PA McCaul testified at their depositions that they were employees of University Emergency Medical Services who provide emergency services to ECMC and are not employees of DOCCS (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Dr. Manka EBT at 4, 17-18; PA McCaul EBT at 12). Further, in pleadings in a related Supreme Court matter, Dr. Manka denied that he was an employee or agent of DOCCS (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Levy Aff Ex 10 [Supreme Court Complaint] \u182\'3f\u182\'3f 6-7; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Ex 11 [Supreme Court answer] \u182\'3f\u182\'3f 1, 4). The evidence presented by Defendant establishes that ECMC was not an employee or agent of DOCCS. In opposition, Claimant fails to raise a triable issue of fact with respect to the theory of agency or control in fact. Consequently, Defendant is entitled to partial summary judgment dismissing so much of Claimant\rquote s first, second, third, fourth, and eighth causes of action to the extent Claimant seeks to hold Defendant liable for the acts of ECMC under the theory of agency or control in fact.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B262052547149_174}{\*\bkmkend co_anchor_B262052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B272052547149_174}{\*\bkmkend co_anchor_B272052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B282052547149_174}{\*\bkmkend co_anchor_B282052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+With respect to ostensible or apparent agency, such doctrine \u8220\'3fimposes vicarious liability upon [the] defendant for the alleged malpractice of an independently contracted doctor when an inmate has reasonably relied upon the appearance of the doctor\rquote s authority created by the words or conduct of DOCCS\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2037991803&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1109&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1109" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Garofolo
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 135 A.D.3d at 1109, 23 N.Y.S.3d 667
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1986110384&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_605_79&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_605_79" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Hill v. St. Clare\rquote s Hosp.
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 67 N.Y.2d 72, 79-82, 499 N.Y.S.2d 904, 490 N.E.2d 823 [1986]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). \u8220\'3fThe applicability of the doctrine depends upon whether the [claimant] could have reasonably believed, based upon all of the surrounding circumstances, that the treating physician was provided by the defendant ... or was otherwise acting on the defendant\rquote s behalf\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1991069353&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_920&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_920" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Soltis v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 172 A.D.2d 919, 920, 568 N.Y.S.2d 470 [3d Dept. 1991]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). Courts will 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_816_174}{\*\bkmkend co_pp_sp_7050_7050_816_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*816
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ evaluate \u8220\'3fwords or conduct on the part of DOCCS that give rise to the appearance and belief that the doctors were acting on its behalf and reliance on that apparent authority\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2037991803&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1110&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1110" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Garofolo
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 135 A.D.3d at 1110, 23 N.Y.S.3d 667
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal citations omitted]).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The determination of ostensible or apparent authority has been decided within the Court of Claims based upon the location of the treatment provided (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see e.g. 
+}
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2003780960&pubNum=0000999&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Moon v. County of Erie
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, UID No. 2002-031-038, 2003 WL 22613575 [Ct Cl, Minarik, J., Sept. 5, 2002]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_816_174}{\*\bkmkend co_pp_sp_7980_816_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**816
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Williams v. State of New York
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, UID No. 2002-013-504 [Ct Cl, Patti, J., Feb. 7, 2002]), or as a question of fact dependent on all the surrounding circumstances (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Rothschild v. State of New York
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, UID No. 2019-044-507; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Funaro v. State of New York
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, UID No. 2001-028-539 [Ct Cl, Sise, J., June 22, 2001]).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B292052547149_174}{\*\bkmkend co_anchor_B292052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The Court concludes there are material issues of fact with respect to ostensible agency that precludes summary judgment for either party. Initially, the Court notes medical care utilizing telemedicine presents a unique question of where treatment was rendered. On one hand, Claimant remained at Auburn Correctional Facility and was treated at the facility in accordance with the telemedicine recommendation provided by ECMC (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see e.g.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1991069353&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_920&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_920" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Soltis
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 172 A.D.2d at 920, 568 N.Y.S.2d 470
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). On the other hand, ECMC staff rendered its services and treatment recommendations off-site (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see e.g.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2017202782&pubNum=0000999&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Triftshauser v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, UID No. 2006-031-050, 2006 WL 6067592 [Ct Cl, Minarik, J. [Ct. Cl., July 20, 2006]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+affd
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2013975657&pubNum=0000602&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+45 A.D.3d 1354, 844 N.Y.S.2d 753 [4th Dept. 2007]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Additionally, Claimant\rquote s deposition testimony was equivocal as to his understanding of the relationship between DOCCS and ECMC. In particular, Claimant testified Nurse Boyd \u8220\'3fput [him] on a TeleMed interview with an 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+outside doctor
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u8221\'3f (Claimant\rquote s First EBT at 59 [emphasis added]). It is unclear from the evidence presented what Claimant meant by \u8220\'3foutside doctor.\u8221\'3f Claimant could have been referring to the actual location of the doctor (i.e. outside the facility).
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ On the contrary, Claimant could have been referring to the affiliation of the doctor as it relates to DOCCS (i.e. an independent doctor unaffiliated with DOCCS). Claimant\rquote s prior telemedicine consultations do not clarify Claimant\rquote s deposition testimony; rather, the prior consultations may inform the reasonableness of Claimant\rquote s belief as to the relationship between ECMC and DOCCS. Given these outstanding issues of material fact relating to the theory of ostensible agency, both parties\rquote  motions for summary judgment with regard to this theory of liability are denied.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_817_174}{\*\bkmkend co_pp_sp_7050_7050_817_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*817
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B302052547149_174}{\*\bkmkend co_anchor_B302052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Assuming Defendant can be held liable for the conduct of ECMC, there are material questions of fact as to whether ECMC deviated from the acceptable standard of medical care in rendering telemedicine services to Claimant. Claimant\rquote s expert, Dr. Bruce Charash, and Defendant\rquote s expert, Dr. Jerel Mark Zoltick, provided conflicting expert opinions as to whether the performance of an EKG was necessary under the circumstances, whether the performance of an EKG would have revealed that Claimant was suffering a 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ib9c08b34475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+heart attack
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ when he first presented to the infirmary, and whether the failure to perform an EKG was the proximate cause of Claimant\rquote s injuries. Dr. Charash opined that given Claimant\rquote s symptoms of chest pain, left upper extremity and neck pain, and shortness of breath, he should have either received an EKG to rule out a 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ib9c08b34475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+heart attack
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ or been immediately transferred to a location where such testing or further emergency medical diagnosis and treatment could have been performed (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Affirmation of Bruce Charash, MD, dated May 22, 2020 \u182\'3f\u182\'3f 9, 12). Dr. Charash reasons that Defendant and, by extension, ECMC, deviated from the accepted standards of medical practice in failing to take either step (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u182\'3f 14).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Conversely, Dr. Zoltick affirmed \u8220\'3f[t]he determination, by PA McCaul and Dr. Manka to prescribe 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=bdrug&entityId=I396ed71e475111db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Tylenol
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ # 3 for [Claimant] to see if his pain resolved, rather than immediately refer him to an outside facility for evaluation, was within the providers\rquote  professional judgment and did not deviate from the acceptable standard of care given [Claimant\rquote s] past chronic pain syndrome and his diagnosis of 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ic21f07f3475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+thoracic outlet syndrome
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u8221\'3f (Affirmation of Jerel 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_817_174}{\*\bkmkend co_pp_sp_7980_817_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**817
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Mark Zoltick, MD, FACC, dated August 20, 2020 \u182\'3f 20). These competing expert opinions present a credibility issue that must be resolved at trial (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2042089227&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1188&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1188" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Moyer
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 152 A.D.3d at 1188-1189, 57 N.Y.S.3d 867
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B312052547149_174}{\*\bkmkend co_anchor_B312052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+There are also material issues of fact surrounding the alleged exacerbation of Claimant\rquote s injuries during the hours between his first and second infirmary visits on February 17, 2012. In particular, Dr. Charash opined \u8220\'3f[t]his gap in time before treatment permitted the Claimant to suffer with excruciating pain and, ultimately, caused severe and irreversible damage to his heart tissue\u8221\'3f (Affirmation of Bruce Charash, MD, dated May 22, 2020 \u182\'3f 20). Conversely, Dr. Zoltick affirmed 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_818_174}{\*\bkmkend co_pp_sp_7050_7050_818_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*818
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ an EKG only became necessary when Claimant returned to the infirmary after experiencing hours of chest pain and Defendant satisfied the applicable standard of care by administering the EKG at that time (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Affirmation of Jerel Mark Zoltick, MD, FACC, dated August 20, 2020 \u182\'3f 21). These competing expert opinions present a credibility issue that must be resolved at trial (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2042089227&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1188&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1188" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Moyer
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 152 A.D.3d at 1188-1189, 57 N.Y.S.3d 867
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B322052547149_174}{\*\bkmkend co_anchor_B322052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Additionally, assuming the delay between Claimant\rquote s infirmary visits exacerbated his condition, there is a material issue of fact surrounding Claimant\rquote s comparative negligence. 
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Claimant testified at his deposition that he asked a correction officer, who he believed to be Correction Officer Waterman, to return to the infirmary at approximately 5:00 p.m. and again at 7:00 p.m., but was not returned to the infirmary until 11:00 p.m. (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Claimant\rquote s First EBT, at 69-73; Levy Aff, Ex 14 [Claimant\rquote s Second EBT], at 59-62). However, Correction Officer Waterman testified at his deposition that he only spoke with Claimant at 10:00 p.m. while conducting his cell count, when he noticed Claimant \u8220\'3fwas on his bars all sweaty, pale and ... obviously sick\u8221\'3f (Waterman EBT, at 16; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 29). Consequently, there is conflicting testimony from Claimant and Correction Officer Waterman with respect to when, if at all, Claimant sought to return to the infirmary, which must be resolved at trial.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B332052547149_174}{\*\bkmkend co_anchor_B332052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Similarly, material issues of fact permeate Claimant\rquote s causes of action premised on Defendant\rquote s alleged failure to promptly provide a 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic7560599475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+stent
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ and 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ib3ef4943475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+defibrillator
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ implant to Claimant, provide continuing ICD scans every 90 days, and ensure the battery level in Claimant\rquote s 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ib3ef4943475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+defibrillator
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ did reach dangerously low levels (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see e.g.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Amended Claim \u182\'3f\u182\'3f 70-71). In support of Claimant\rquote s motion for summary judgment, Dr. Charash opined that when Defendant learned that Claimant\rquote s ejection fraction was 25% by an 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mproc&entityId=Ic844ab26475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+echocardiogram
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ dated February 25, 2012, Claimant should have been implanted with a 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ib3ef4943475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+defibrillator
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Affirmation of Bruce Charash, MD, dated May 22, 2020 \u182\'3f\u182\'3f 21-22). Dr. Charash also affirmed that testing the 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ib3ef4943475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+defibrillator
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ and monitoring its battery is critical to Claimant\rquote s health and Defendant\rquote s alleged failure to monitor the defibrillator and battery \u8220\'3fshows its complete and utter disregard for its duty to ... Claimant and his life\u8221\'3f (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u182\'3f 25).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Dr. Zoltick countered, affirming that, according to the American College of Cardiology, \u8220\'3fan ICD was not indicated immediately after a 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ib9c08b34475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+heart attack
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ unless there was unstable 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ic3f3c7d1475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+arrhythmia 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_819_174}{\*\bkmkend co_pp_sp_7050_7050_819_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*819
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ or 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=disease&entityId=Ic981e6a2475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+cardiac arrest
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, which [Claimant] did not have\u8221\'3f (Affirmation of Jerel Mark Zoltick, MD, FACC, dated August 20, 2020 \u182\'3f 26). Moreover, Dr. Zoltick opined that an ejection fraction of less than 35% did not mandate placement of an ICD for 40 days because a patient\rquote s ejection fraction could improve (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). Dr. Zoltick notes that Claimant\rquote s ejection fraction did in fact improve and Claimant did not meet the criteria for an ICD until January 17, 2014 when he complained of 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_818_174}{\*\bkmkend co_pp_sp_7980_818_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**818
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ chest pains and had an ejection fraction of 30% (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u182\'3f\u182\'3f 26, 29; Levy Aff, Ex 38). Dr. Zoltick affirms that the placement of an ICD in Claimant in April 2014 was within the acceptable standard of care (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Affirmation of Jerel Mark Zoltick, MD, FACC, dated August 20, 2020 \u182\'3f 29). Dr. Zoltick also opined \u8220\'3f[t]here was no need to consider the replacement of the generator battery before October 31, 2019\u8221\'3f because the generator battery lasts roughly six to nine months (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ \u182\'3f 30). Moreover, Dr. Zoltick affirmed the battery would sound a beep, indicating it needed to be replaced, prior to stopping (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+In an affirmation in reply, Dr. Charash states that an ICD generator battery should be replaced when the battery strength falls to 10% (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Affirmation of Bruce Charash, MD, dated October 2, 2020 \u182\'3f 27). Dr. Charash reasons that because Claimant\rquote s ICD battery was at 6% of its original charge, Defendant deviated from the acceptable standard of care in failing to promptly replace it (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). Dr. Charash also opined that \u8220\'3f[w]aiting for the battery to be drained to near zero, and allowing the battery to beep continuously, exposes [Claimant] to an unreasonable risk of sudden death\u8221\'3f
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+id.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). These competing expert opinions present a credibility issue that must be resolved at trial (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2042089227&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_1188&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_1188" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Moyer
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 152 A.D.3d at 1188-1189, 57 N.Y.S.3d 867
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). Accordingly, both parties\rquote  motions for summary judgment with respect to the placement of the stent and ICD and subsequent monitoring of the ICD is denied.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B342052547149_174}{\*\bkmkend co_anchor_B342052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B352052547149_174}{\*\bkmkend co_anchor_B352052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B362052547149_174}{\*\bkmkend co_anchor_B362052547149_174}
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B372052547149_174}{\*\bkmkend co_anchor_B372052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Claimant alternatively requests an order dismissing Defendant\rquote s second and third affirmative defenses. Pursuant to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000059&cite=NYCPR3211&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=SP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_a83b000018c76" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+CPLR 3211 (b)
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, \u8220\'3f[a] party may move for judgment dismissing one or more defenses, on the ground that a defense is not stated or has no merit.\u8221\'3f Claimant \u8220\'3fbears the burden of demonstrating that the affirmative defense is without merit as a matter of law\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2035464650&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_797&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_797" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Bank of NY v. Penalver
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 125 A.D.3d 796, 797, 1 N.Y.S.3d 825 [2d Dept. 2015]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal quotation marks and citation omitted]). \u8220\'3fWhen reviewing a motion to dismiss an affirmative defense, all of [the] defendant\rquote s allegations must be deemed to be true and 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_820_174}{\*\bkmkend co_pp_sp_7050_7050_820_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*820
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [the] defendant is entitled to all reasonable inferences to be drawn from the submitted proof\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2024933063&pubNum=0000602&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Stopani v. Allegany Co-op Ins. Co.
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 83 A.D.3d 1446, 1446-1447, 920 N.Y.S.2d 559 [4th Dept. 2011]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal quotation marks and citation omitted]). \u8220\'3fIf there is any doubt as to the availability of a defense, it should not be dismissed\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2001830475&pubNum=0000602&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Nahrebeski v. Molnar
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 286 A.D.2d 891, 891, 730 N.Y.S.2d 646 [4th Dept. 2001]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [internal quotation marks and citation omitted]). Stated differently, where there are issues of fact surrounding the applicability of the defense, a motion to dismiss the defense should be denied (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2026710502&pubNum=0007049&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7049_542&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7049_542" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+534 E. 11th St. Hous. Dev. Fund Corp. v. Hendrick
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 90 A.D.3d 541, 542, 935 N.Y.S.2d 23 [1st Dept. 2011]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+).
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B382052547149_174}{\*\bkmkend co_anchor_B382052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The second affirmative defense alleges that Defendant is immune from liability for its discretionary decisions, including decisions regarding medical treatment of Claimant (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Rudderow Aff, Ex D [Defendant\rquote s Verified Answer to Amended Claim] \u182\'3f 6). Courts have held that the State is not entitled to immunity for claims of improper medical care and treatment made by inmates (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see e.g.
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2026220182&pubNum=0007050&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7050_253&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7050_253" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Carlson v. State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 34 Misc. 3d 242, 253, 932 N.Y.S.2d 812 [Ct. Cl. 2011]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see also
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1996150491&pubNum=0000155&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_155_11&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_155_11" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Kagan
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 221 A.D.2d at 11, 646 N.Y.S.2d 336
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+). Accordingly, Claimant\rquote s motion to dismiss Defendant\rquote s second affirmative defense is granted only insofar as the defense alleges that Defendant is immune for liability for decisions regarding the medical care and treatment of Claimant.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The balance of Claimant\rquote s motion to dismiss Defendant\rquote s second affirmative defense must be denied. As Defendant notes (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Levy Aff \u182\'3f 243), the Amended Claim 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_819_174}{\*\bkmkend co_pp_sp_7980_819_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**819
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ includes various allegations implicating DOCCS\rquote  discretionary decisions regarding safety, security, and control of its correctional facilities (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Amended Claim \u182\'3f\u182\'3f 30, 50-53, 71). \u8220\'3fThe discretionary determinations of correction officials in fulfilling their responsibility for the safety, security and control of correctional facilities has been recognized as quasi-judicial in nature, and subject to absolute immunity where conducted in compliance with governing statutes and regulations\u8221\'3f (
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=2026220182&pubNum=0007050&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_7050_251&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_7050_251" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Carlson,
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 34 Misc 3d at 251, 932 N.Y.S.2d 812
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see also
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=Y&serNum=1988076477&pubNum=0000605&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=RP&fi=co_pp_sp_605_218&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_sp_605_218" }{\fldrslt 
+{\b0 \cf24 \f2 \i1 \fs20 
+{\b0 \cf24 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+Arteaga v State of New York
+}
+}
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, 72 N.Y.2d 212, 218-219, 532 N.Y.S.2d 57, 527 N.E.2d 1194 [1988]
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ [\u8220\'3f(b)ecause of the problems of maintaining security and discipline within correctional facilities, the discretion delegated to the employees and officers is necessarily comprehensive and calls for the exercise of judgment under widely varying conditions\u8221\'3f]). Consequently, the Court concludes that so much of the second affirmative defense directed at Claimant\rquote s allegations regarding Defendant\rquote s discretionary determinations regarding safety, security, and control of its correctional facilities should not be dismissed.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_821_174}{\*\bkmkend co_pp_sp_7050_7050_821_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*821
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ 
+}
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B392052547149_174}{\*\bkmkend co_anchor_B392052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+With regard to its third affirmative defense, Defendant alleges that Claimant\rquote s injuries stem from \u8220\'3fconduct by Claimant or 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+others
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ who were not under the Defendant\rquote s control\u8221\'3f (Defendant\rquote s Verified Answer to Amended Claim \u182\'3f 7 [emphasis added]). Claimant argues that Defendant\rquote s failure to particularize the \u8220\'3fothers\u8221\'3f responsible for Claimant\rquote s injuries warrants dismissal of the defense (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Rudderow Aff \u182\'3f\u182\'3f 99-100). As Defendant notes, Claimant did not specifically request Defendant particularize the \u8220\'3fothers\u8221\'3f it was referencing in its third affirmative defense (
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+see
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ Levy Aff \u182\'3f\u182\'3f 230-235 & Ex 41 [Claimant\rquote s Demand for Bill of Particulars] \u182\'3f 3). Additionally, Claimant never objected to Defendant\rquote s bill of particulars or supplemented his demand. In any event, the parties appear to have distilled the reference to \u8220\'3fothers\u8221\'3f in Defendant\rquote s third affirmative defense to refer to ECMC. As stated above, there is a material issue of fact as to whether Defendant can be held liable for the acts of ECMC. Accordingly, Defendant\rquote s third affirmative defense is not lacking in merit as a matter of law and the motion to dismiss such defense must be denied.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf24 \f2 \i0 \fs20 
+{\*\bkmkstart co_anchor_B402052547149_174}{\*\bkmkend co_anchor_B402052547149_174}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Lastly, because Claimant does not oppose Defendant\rquote s motion in limine, the Court grants the motion and permits Defendant to introduce prison, mental health, and medical records involving Claimant\rquote s treatment after July 7, 2020 and allows Defendant\rquote s experts to rely on same in preparing their reports and testifying at trial.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Accordingly, it is hereby:
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ORDERED Claimant\rquote s motion No. M-95437 is granted only insofar as dismissing so much of Defendant\rquote s second affirmative defense as alleges that Defendant is immune for liability for decisions regarding the medical care and treatment of Claimant; and it is further
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ORDERED Claimant\rquote s motion No. M-95437 is otherwise denied; and it is further;
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ORDERED Defendant\rquote s cross motion CM-95852 to dismiss Claimant\rquote s sixth, seventh, and ninth causes of action is granted; and it is further
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ORDERED Defendant\rquote s cross motion for summary judgment is granted insofar as dismissing so much of Claimant\rquote s first and fourth causes of action alleging that Defendant, through the conduct of the Department of Corrections and Community Supervision (DOCCS), negligently failed to perform an electrocardiogram (EKG) of Claimant; maintain, repair, or have a properly functioning 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?entityType=mdev&entityId=Ic8ee31eb475411db9765f9243f53508a&originationContext=document&transitionType=DocumentItem&contextData=(sc.Default)&vr=3.0&rs=cblt1.0" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+EKG machine
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+; and negligently hired, retained, and trained DOCCS\rquote  employees; and it is further
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7980_820_174}{\*\bkmkend co_pp_sp_7980_820_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+**820
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ ORDERED Defendant\rquote s cross motion CM-95852 for summary judgment is granted insofar as dismissing so much of Claimant\rquote s first, second, third, fourth, and eighth causes of action to the extent Claimant seeks 
+}
+{\b1 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_pp_sp_7050_7050_822_174}{\*\bkmkend co_pp_sp_7050_7050_822_174}
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+*822
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ to hold Defendant liable for the acts of ECMC under the theory of agency or control in fact; and it is further
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ORDERED Defendant\rquote s cross motion for summary judgment and dismissal is otherwise denied; and it is further
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ORDERED pursuant to 
+}
+{\field {\*\fldinst HYPERLINK "http://www.westlaw.com/Link/Document/FullText?findType=L&pubNum=1000059&cite=NYCPR3025&originatingDoc=Id1e89e103a5b11eba9c4c2beee9e04d0&refType=SP&originationContext=document&vr=3.0&rs=cblt1.0&transitionType=DocumentItem&contextData=(sc.Search)#co_pp_4b24000003ba5" }{\fldrslt 
+{\b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+CPLR 3025 (c)
+}}}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+, the Amended Claim is amended 
+}
+{\b0 \cf1 \f2 \i1 \fs20 
+{\b0 \cf1 \f2 \ul0 \strike0 \i1 \fs20 \sa0 \sb0 
+sua sponte
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ to conform to the proof presented on the parties\rquote  motions for summary judgment by replacing references to \u8220\'3fUniversity Emergency Medical Services\u8221\'3f with Erie County Medical Center (ECMC); and it is further
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+ORDERED Defendant\rquote s motion in limine (M-95853) is granted and Defendant is permitted to offer prison, mental health, and medical records involving Claimant\rquote s treatment after July 7, 2020 as evidence at trial and Defendant\rquote s experts may rely on same in preparing their reports and testifying at trial.
+\par 
+}
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+\u160\'3f
+\par 
+}
+}
+}
+}
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b1 \cf28 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\*\bkmkstart co_allCitations_174}{\*\bkmkend co_allCitations_174}
+{\b1 \cf28 \f2 \ul0 \strike0 \i0 \fs20 \sa200 \sb200 
+All Citations
+\par 
+}
+}
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+70 Misc.3d 801, 138 N.Y.S.3d 802, 2020 N.Y. Slip Op. 20327
+\par 
+}
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 {
+{\trowd \ltrrow \trleft0 
+\clpadb400 \clpadfb3 \clbrdrt \clbrdrl \trql \clwWidth10080 \cellx10080 
+\intbl 
+{\ri0 \li0 
+{\b1 \qc \cf1 \f2 \ri0 \i0 \fs22 \li0 
+{\b1 \cf1 \f2 \i0 \fs22 
+{\b1 \cf1 \f2 \ul0 \strike0 \i0 \fs22 \sa0 \sb0 
+Footnotes
+\par 
+}
+}
+}
+}\b1 \qc \cf1 \f2 \ri0 \ul0 \strike0 \i0 \li0 \fs22 \sa0 \sb0 \intbl \cell \row }
+{\trowd \ltrrow \trleft0 
+\clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\ri0 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \ql \fs20 \li0 
+{\b0 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_footnote_B00012052547149_174}{\*\bkmkend co_footnote_B00012052547149_174}
+{\field {\*\fldinst HYPERLINK "#co_fnRef_B00012052547149_ID0EWTAI_174" }{\fldrslt 
+{\super \b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+1
+}\super \b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 }}
+\par 
+}
+}
+}\b0 \cf1 \f2 \ri0 \i0 \ql \li0 \fs20 \intbl \cell \intbl 
+{\ri0 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+The Court notes Claimant improperly utilized letters, rather than numbers, in labeling the exhibits in support of the motion for summary judgment. However, given that Defendant utilized numbers in labeling its exhibits and to avoid confusion, the Court refers to the exhibits as labeled by the parties.
+\par 
+}
+}
+}
+}
+}\b0 \cf1 \f2 \ri0 \ul0 \strike0 \i0 \qj \li0 \fs20 \sa0 \sb0 \intbl \cell \row }
+{\trowd \lastrow \trleft0 
+\clbrdrb \clbrdrl \trql \clvertalt \clwWidth600 \cellx600 
+\clbrdrb \clbrdrr \trql \clwWidth9480 \cellx10080 
+\intbl 
+{\ri0 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \ql \fs20 \li0 
+{\b0 \cf1 \f2 \i0 \fs20 
+{\*\bkmkstart co_footnote_B00022052547149_174}{\*\bkmkend co_footnote_B00022052547149_174}
+{\field {\*\fldinst HYPERLINK "#co_fnRef_B00022052547149_ID0E6TAI_174" }{\fldrslt 
+{\super \b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+2
+}\super \b0 \cf24 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 }}
+\par 
+}
+}
+}\b0 \cf1 \f2 \ri0 \i0 \ql \li0 \fs20 \intbl \cell \intbl 
+{\ri0 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 
+{\b0 \cf1 \f2 \ul0 \strike0 \i0 \fs20 \sa0 \sb0 
+Claimant only submitted relevant portions of deposition testimony in support of his motion whereas Defendant submitted entire deposition transcripts. For convenience, the Court will cite to the full transcript provided by Defendant.
+\par 
+}
+}
+}
+}
+}\b0 \cf1 \f2 \ri0 \ul0 \strike0 \i0 \qj \li0 \fs20 \sa0 \sb0 \intbl \cell \row }}\par 
+}
+{\b0 \cf1 \f2 \ri0 \i0 \qj \fs20 \li0 {
+{\trowd \lastrow \trleft0 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrcf22 \brdrw10 \brdrs \clbrdrb \clbrdrl \trql \clvertalt \clwWidth4320 \cellx4320 
+\clpadt24 \clpadft3 \clpadl100 \clpadfl3 \clpadr24 \clpadfr3 \clbrdrt \brdrcf22 \brdrw10 \brdrs \clbrdrb \clbrdrr \trql \clvertalt \clwWidth5760 \cellx10080 
+\intbl 
+{\ri24 \li24 
+{\b1 \cf22 \f2 \ri24 \i0 \ql \fs16 \li24 
+{\b1 \cf22 \f2 \ul0 \strike0 \i0 \fs16 \sa0 \sb0 
+End of Document
+\par 
+}
+}
+}\b1 \cf22 \f2 \ri24 \ul0 \strike0 \i0 \ql \li24 \fs16 \sa0 \sb0 \intbl \cell \intbl 
+{\ri24 \li24 
+{\qr \b0 \cf22 \f2 \ri24 \i0 \fs16 \li24 
+{\b0 \cf22 \f2 \ul0 \strike0 \i0 \fs16 \sa0 \sb0 
+\u169\'3f 2021 Thomson Reuters. No claim to original U.S. Government Works.
+\par 
+}
+}
+}\qr \b0 \cf22 \f2 \ri24 \ul0 \strike0 \i0 \li24 \fs16 \sa0 \sb0 \intbl \cell \row }}\par 
+}
+}\sect }
