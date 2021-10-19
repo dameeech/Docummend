@@ -31,12 +31,12 @@ I implemented a Nearest Neighbors model to get my recommendations. I started wit
 Here we can see the results from the  best performing model based on the feedback from the attorney who provided the target document.
 
 ![Results1](https://user-images.githubusercontent.com/32643842/137021904-2928b993-4083-43a8-9088-f88def50afa7.png)
- We get the names of the decisions and each decision is saved as an individual file into the results folder.
+We get the names of the decisions and each decision is saved as an individual file into the results folder.
  
 At the same time we can print a quick post modeling analysis displaying the percent difference between each decision and our input document, as well as the category that our document falls into based on the clustering analysis.
 
- ![Results2](https://user-images.githubusercontent.com/32643842/137022107-a364f97f-4379-4ab4-9d6f-65d181f24ea8.png)
- ![Results3](https://user-images.githubusercontent.com/32643842/137022174-92edd44a-e74e-4b26-95c3-f298d3a9692a.png)
+![Results2](https://user-images.githubusercontent.com/32643842/137022107-a364f97f-4379-4ab4-9d6f-65d181f24ea8.png)
+![Results3](https://user-images.githubusercontent.com/32643842/137022174-92edd44a-e74e-4b26-95c3-f298d3a9692a.png)
  
 We can see that the top 3 decisions are about 39% different while the last two are just over 40%. The case type of our target document can also be displayed. It is based on the LDA model that we saw in the Engine Analysis slide and we can see that our case type is over 80% in the Medical Malpractice category.
 
