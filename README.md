@@ -31,6 +31,7 @@ I implemented a Nearest Neighbors model to get my recommendations. I started wit
 Here we can see the results from the  best performing model based on the feedback from the attorney who provided the target document.
 
 ![Results1](https://user-images.githubusercontent.com/32643842/137021904-2928b993-4083-43a8-9088-f88def50afa7.png)
+
 We get the names of the decisions and each decision is saved as an individual file into the results folder.
  
 At the same time we can print a quick post modeling analysis displaying the percent difference between each decision and our input document, as well as the category that our document falls into based on the clustering analysis.
