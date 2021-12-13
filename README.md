@@ -18,14 +18,13 @@ My analysis consisted of standard NLP like the total number of unique words, nor
 
 A more in-depth analysis of the train data can be implemented with an LDA clustering model. Since I am not an expert in personal injury litigation I was only comfortable with a very general analysis:
 
+<em> In the first cluster we see words like Plaintiff and Defendant, Complaint, Recover, Personal, and Damage which are all common terms associated with Negligence and Premises cases. </em>
 <p align="center">
-    <img height="75%" img src="https://user-images.githubusercontent.com/32643842/137021552-8d29cf73-fcec-4b14-a1ba-533603f72cb0.png" alt>
-    <em> In the first cluster we see words like Plaintiff and Defendant, Complaint, Recover, Personal, and Damage which are all common terms associated with Negligence and Premises cases. </em>
+    <img width="75%" img src="https://user-images.githubusercontent.com/32643842/137021552-8d29cf73-fcec-4b14-a1ba-533603f72cb0.png" alt>
 </p>
-
-<p>
-    <img height="75%" img src="https://user-images.githubusercontent.com/32643842/137021646-d9c6c909-607c-4f54-b6cc-b960c197a03f.png" alt>
-    <em> In the second cluster words like Injury, Limitation, Medical, Spine, Lumbar, and Cervical are usually associated with Medical Malpractice cases. </em>
+<em> In the second cluster words like Injury, Limitation, Medical, Spine, Lumbar, and Cervical are usually associated with Medical Malpractice cases. </em>
+<p align="center">
+    <img width="75%" img src="https://user-images.githubusercontent.com/32643842/137021646-d9c6c909-607c-4f54-b6cc-b960c197a03f.png" alt>
 </p>
 
 By creating 2 clusters, the model was able to distinguish between Medical Malpractice Cases and general Premises or Negligence cases, which are the bulk of cases that personal injury attorneys take on. 
