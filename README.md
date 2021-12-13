@@ -1,7 +1,7 @@
 # Docummend
 
 <p align="center">
-<img height="275" src="https://user-images.githubusercontent.com/32643842/137021376-0dc06282-d912-4d2f-b75b-9bdf2fd25b5b.png" />
+<img height="75%" src="https://user-images.githubusercontent.com/32643842/137021376-0dc06282-d912-4d2f-b75b-9bdf2fd25b5b.png" />
 </p>
 
 Docummend is a proof-of-concept search method that uses advanced Natural Language Processing combined with a recommendation engine to make it possible to accurately search through large amounts of data without search-terms. Instead, users upload their entire research document to be compared against the documents the model was trained on and output the desired amount of closest matches. While this is a proof of concept built on a small dataset it is very easy to implement and scale up with any kind of academic data.
@@ -19,12 +19,12 @@ My analysis consisted of standard NLP like the total number of unique words, nor
 A more in-depth analysis of the train data can be implemented with an LDA clustering model. Since I am not an expert in personal injury litigation I was only comfortable with a very general analysis:
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/32643842/137021552-8d29cf73-fcec-4b14-a1ba-533603f72cb0.png" alt>
+    <img height="75%" img src="https://user-images.githubusercontent.com/32643842/137021552-8d29cf73-fcec-4b14-a1ba-533603f72cb0.png" alt>
     <em> In the first cluster we see words like Plaintiff and Defendant, Complaint, Recover, Personal, and Damage which are all common terms associated with Negligence and Premises cases. </em>
 </p>
 
 <p>
-    <img src="https://user-images.githubusercontent.com/32643842/137021646-d9c6c909-607c-4f54-b6cc-b960c197a03f.png" alt>
+    <img height="75%" img src="https://user-images.githubusercontent.com/32643842/137021646-d9c6c909-607c-4f54-b6cc-b960c197a03f.png" alt>
     <em> In the second cluster words like Injury, Limitation, Medical, Spine, Lumbar, and Cervical are usually associated with Medical Malpractice cases. </em>
 </p>
 
@@ -37,7 +37,7 @@ I implemented a Nearest Neighbors model to get my recommendations. I started wit
 
 Here are the results from the best performing model based on the feedback from the attorney who provided the target document:
 <p align="center">
-    <img height="175" src="https://user-images.githubusercontent.com/32643842/137021904-2928b993-4083-43a8-9088-f88def50afa7.png" />
+    <img height="75%" src="https://user-images.githubusercontent.com/32643842/137021904-2928b993-4083-43a8-9088-f88def50afa7.png" />
 </p>
 
 We get the names of the decisions and each decision is saved as an individual file into the results folder. At the same time we can print a quick post modeling analysis displaying the percent difference between each decision and our input document, as well as the category that our document falls into based on the clustering analysis.
